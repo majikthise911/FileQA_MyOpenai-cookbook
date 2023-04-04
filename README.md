@@ -1,5 +1,7 @@
 # OpenAI Cookbook
 
+### * This repo was cloned from https://github.com/jamescalam/openai-cookbook
+
 The OpenAI Cookbook shares example code for accomplishing common tasks with the [OpenAI API].
 
 To run these examples, you'll need an OpenAI account and associated API key ([create a free account][api signup]).
